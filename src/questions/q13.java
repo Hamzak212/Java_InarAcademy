@@ -11,8 +11,9 @@ boolean triangle = true;
 		System.out.println("biy");
 
 double length = input.nextDouble();
+double answer = ((Math.sqrt(3.0) / 4.0) * Math.pow(length, 2));
 
-System.out.println("The area is " + ((Math.sqrt(3) / 4) * Math.pow(length, 2)));
-
+System.out.println("The area is " + answer);
+System.out.println("The Volume is " + (answer * length));
 }
 	}

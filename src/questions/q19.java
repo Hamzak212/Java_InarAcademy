@@ -11,23 +11,32 @@ double b = input.nextDouble();
 double c = input.nextDouble();
 
 if ((a > b) && (a > c)) {
-	System.out.println("a is the biggest"); }
+	System.out.println( a + " is the biggest"); }
 else { 
 
-if ((b > c)  && (b > a) {
-        System.out.println("b is the biggest"); }
+if ((b > c) && (b > a)) {
+        System.out.println( b + " is the biggest"); }
 else { 
-               
-System.out.println("c is the biggest")
 
-if ((c > a) && (c > b)) {
-        System.out.println("c is the biggest"); }
-else
- 
+if ((c > a) && (c > b)) {              
+	System.out.println( c + " is the biggest"); }
 
 
- { 
+
+if ((a < b) && (a < c)) {
+        System.out.println( a + " is the lowest"); }
+else {
+
+if ((b < c) && (b < a)) {
+        System.out.println( b + " is the lowest"); }
+else {
+
+if ((c < a) && (c < b)) {
+	System.out.println( c + " is the lowest"); }
 
 }
 }
-	}
+}
+}
+}
+}

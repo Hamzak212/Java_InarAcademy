@@ -1,6 +1,7 @@
+import java.util.*;
 public class q1 {  
   
-    public static void main(String[] args) {  
+    public static void questions(String[] args) {  
       
         int num1=10;  
         int num2=20;  

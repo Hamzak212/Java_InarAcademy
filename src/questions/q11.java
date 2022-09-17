@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class q11 {
+public class questions {
 public static void main(String[] args) {
 boolean sleepIn = false;
 	if(sleepIn)

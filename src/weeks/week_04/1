@@ -1,0 +1,14 @@
+import java.util.*;
+public class q28 {
+	public static void main(String[] args) {
+		
+	char num = 'e';
+	int i = (int)(num);
+
+	System.out.println(i);
+
+
+
+
+	}
+}

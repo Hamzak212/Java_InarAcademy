@@ -1,6 +1,7 @@
 //A pentagonal number is defined as n(3n–1)/2 for
 //n = 1, 2, . . ., and so on. Therefore, the first few numbers are 1, 5, 12, 22, . . . .
 //Write a method with the following header that returns a pentagonal number:
+
 public class Exercise_06_01 {
     public static void main(String[] args) {
         System.out.println("The First 50 Pentagonal Numbers Are: ");
